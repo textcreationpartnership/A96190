@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Welshmans answer, to that false petition which was printed of her reputation, and protestation made in her vindication of her defamed reputation. Written by me, Shon op Shones, by the consent of her cosins of creat qualitie; Wilham Powell, Shonny Morgan, and her cosin Cadwalladore, and her cosin Criffen, and her cosin Shenkin. Cots plutter a nailes, if her tid put know how tid so apuse us, her would would have them py their long tusks, and pumble her nose soundly.</title>
+            <author>Shones, Shon ap.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96190</idno>
+            <idno type="STC">Wing W1323</idno>
+            <idno type="STC">Thomason E137_26</idno>
+            <idno type="STC">ESTC R15476</idno>
+            <idno type="EEBO-CITATION">99859870</idno>
+            <idno type="PROQUEST">99859870</idno>
+            <idno type="VID">156507</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96190)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156507)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E137[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Welshmans answer, to that false petition which was printed of her reputation, and protestation made in her vindication of her defamed reputation. Written by me, Shon op Shones, by the consent of her cosins of creat qualitie; Wilham Powell, Shonny Morgan, and her cosin Cadwalladore, and her cosin Criffen, and her cosin Shenkin. Cots plutter a nailes, if her tid put know how tid so apuse us, her would would have them py their long tusks, and pumble her nose soundly.</title>
+                  <author>Shones, Shon ap.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Reinor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>A reply to: The Welchmans protestation, concerning the corruptions of these times.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Welchmans protestation, concerning the corruptions of these times --  Controversial literature --  Early works to 1800.</term>
+               <term>National characteristics, Welsh --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156507:1" rendition="simple:additions"/>
+            <p>THE WELSHMANS ANSWER, TO THAT FALSE PETITION Which was printed of her Reputation, and Proteſtation made in her Vindication of her defamed Reputation.</p>
+            <p>Written by me, <hi>Shon op Shones,</hi> by the conſent of her Coſins of creat qualitie; <hi>Wilham Powell, Shonny Morgan,</hi> and her Coſin <hi>Cadwalladore,</hi> and her Coſin <hi>Criffen,</hi> and her Coſin <hi>Shenkin.</hi>
+            </p>
+            <p>Cots plutter a nailes, if her tid put know how tid ſo apuſe us, her would would have them py their long tusks, and pumble her noſe ſoundly.</p>
+            <p>LONDON. Printed for <hi>T. Reinor.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156507:2"/>
+            <pb facs="tcp:156507:2"/>
+            <head>THE WELSHMANS REPLICATION, To a Petition and Proteſtation made in vindication of her defamed Repu<g ref="char:EOLhyphen"/>tation. <hi>Ann. Dom.</hi> 1641.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or, whereas to her creat diſgrace and de<g ref="char:EOLhyphen"/>famation, a Petition and Proteſtation hath bin made and framed py idle and frantick wits, tat reflects not only upon her own proper perſon, but her whole Country, as well of te Shentility as Commonalty, which her cannot hear in ſuch deriding and ſheering man<g ref="char:EOLhyphen"/>ner cried up and down te ſtreets, but
+<pb facs="tcp:156507:3"/>her was inforced to vindicate her re<g ref="char:EOLhyphen"/>putation therein publikely by wri<g ref="char:EOLhyphen"/>ting, and if not by te ſame preven<g ref="char:EOLhyphen"/>ted, it may in time comming be an occaſion of creater trouble.</p>
+            <p>Put it is not her particular caſe only, to pe apuſed and ſcandalized py ſuch Pamphlets, put te Autors there<g ref="char:EOLhyphen"/>of have pin ſo prodigall, as to apuſe not only her ſelf, and te reſt of her coſins Countrimen, put alſo tivers teſerving members of te Engliſh ſtate as well creat perſons as lower, whoſe diſpoſitions have not agreed to every ones humour; yea, they have not pin aſhamed to apuſe her King, queen, and Prince, put Nobility and High Court of Parliament, which if they pe ſuffered without puniſhment, ſuch danger may ariſe poth to City and Country, as was hard to appeaſe.</p>
+            <p>Theſe foul apuſes in printing ſuch pooks, under colour either of Parlia<g ref="char:EOLhyphen"/>ment proceedings; or <hi>Iriſh</hi> Newes, hath produced a creat ſcandal over te
+<pb facs="tcp:156507:3"/>whole Kingdome, which her hears is alſo taken notice of py Outlandiſh Nations. Her alſo was never read ſuch printing in former Parliaments with<g ref="char:EOLhyphen"/>out power of the ſame, put now poor fellows and pretended writers pends their indeavours to deviſe ſcandalous pooks, pe they of what Nature or qualitie ſoever, pe it of never ſuch ill conſequence, be it againſt never ſo creat and venerable Piſhits. Is there put te leaſt thing done in Parlia<g ref="char:EOLhyphen"/>ment, nay put a tale or thought of ſuch a thing of proceeding againſt a<g ref="char:EOLhyphen"/>ny man whatſoever, pe he Lord or Peer, if not py them fancied, put pre<g ref="char:EOLhyphen"/>ſent a pook is made of them, if they have put te name of the perſon, it was to her a cood reaſon to make and create a Pamphlet of them. Put pleſſe me God, this is not all, her tiveliſh and mortal enemies perform; te waters are acquainted with the af<g ref="char:EOLhyphen"/>fections of the people, how they ſtand inclined, who was ready to take
+<pb facs="tcp:156507:4"/>part with her foes and who not; py which ſuch remote enemies tat have intelligencer in her Kings Provinces, may know te better how to compaſs their deſignes in agitation againſt her Perſon and Country, which is of creat advantage to her enemies poth publike and private.</p>
+            <p>Her was therefore earneſtly in<g ref="char:EOLhyphen"/>treat, tat this her writing, ſhewing her intention to defend her reputa<g ref="char:EOLhyphen"/>tion may be reſpected, tat ſuch pooks which tend only to te ſtirring up ſtrife and diſſention, may not again pe ritten or publiſhed to her diſcrace and diſcredit. Her affections are no wayes tardy to any thing tat may prove profitable and neceſſary to her advancement in her Country and te Engliſh people in their Britannicall glory and fame. Her indeavors ſhall alwaies comply with her cood King and his high Court of Parliament in in ſetling of peace and quietneſſe, which her was ever apide in all her
+<pb facs="tcp:156507:4"/>Kings nations, her ſhall pe willing to looſe her own dear perſon and coods in any ſervice when her was commanded in maintainance there<g ref="char:EOLhyphen"/>of. Her was ſenſible with cood feel<g ref="char:EOLhyphen"/>ing, tat te authors of theſe pooks are ſheering and pabling poor rogues, deſirous in their tiveliſh works to pleaſe the times, pe it crooked or ſtraight. Her is ſo well literated in latter examples, tat py examples her can make manifeſt what her ſay, and defend it to pe cood.</p>
+            <p>Te troubles petween <hi>England</hi> and <hi>Scotland,</hi> which nation hath ſince ap<g ref="char:EOLhyphen"/>proved themſelves loyall and faith<g ref="char:EOLhyphen"/>full ſubjects to their cood King, and tat all they did in taking up Armes, was onely in defence of their Reli<g ref="char:EOLhyphen"/>gion, Lawes, and Liperties of tat Kingdome, which tiveliſh perſons ſeeked to teſtroy. And during theſe troubles, what evill pooks and ſcan<g ref="char:EOLhyphen"/>dalous papers were printed and pub<g ref="char:EOLhyphen"/>liſhed in diſgrace; and contrariwiſe,
+<pb facs="tcp:156507:5"/>what pooks were deviſed in praiſe and honor of te Piſhits, and others in creat places of Authoritie in Church and State, that were incendaries in thoſe diſſentions. And ſince the mee<g ref="char:EOLhyphen"/>ting of this pleſſed Societie, tat there is by the wiſedome thereof a Peace concluded petween poth Countries, her perceives contrary pooks made in honour of the Scots, and defama<g ref="char:EOLhyphen"/>tion of malefactors, py which her well ſees theſe fellowes will do any thing, right or wrong. Put her will ſay no more put this, if her deſires pe not py this writing conſidered, her was intend in humility to pe a Petitioner in pehalf of her ſelf and Country, to the Parliament for re<g ref="char:EOLhyphen"/>lief, and puniſhing te Autors of theſe abuſes.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
